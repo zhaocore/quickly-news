@@ -1,4 +1,4 @@
-# Quickly News
+# Quickly News 坏事传千里
 
 ![](/public/og-image.png)
 
@@ -21,14 +21,14 @@ English | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md)
 ```json
 {
   "mcpServers": {
-    "newsnow": {
+    "quickly-news": {
       "command": "npx",
       "args": [
         "-y",
-        "newsnow-mcp-server"
+        "quickly-news-mcp-server"
       ],
       "env": {
-        "BASE_URL": "https://newsnow.busiyi.world"
+        "BASE_URL": "https://news.wxget.com"
       }
     }
   }

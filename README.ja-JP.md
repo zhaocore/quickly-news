@@ -18,14 +18,14 @@
 ```json
 {
   "mcpServers": {
-    "newsnow": {
+    "quickly-news": {
       "command": "npx",
       "args": [
         "-y",
-        "newsnow-mcp-server"
+        "quickly-news-mcp-server"
       ],
       "env": {
-        "BASE_URL": "https://newsnow.busiyi.world"
+        "BASE_URL": "https://news.wxget.com"
       }
     }
   }
