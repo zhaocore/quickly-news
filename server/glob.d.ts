@@ -1,4 +1,4 @@
-/* eslint-disable */
+ 
 
 declare module 'glob:./sources/{*.ts,**/index.ts}' {
   export const _36kr: typeof import('./sources/_36kr')
