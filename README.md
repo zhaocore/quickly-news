@@ -1,3 +1,5 @@
+# Quickly News
+
 ![](/public/og-image.png)
 
 English | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md)
