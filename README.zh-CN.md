@@ -1,3 +1,4 @@
+# Quickly News 坏事传千里
 ![](/public/og-image.png)
 
 [English](./README.md) | 简体中文 | [日本語](README.ja-JP.md)
@@ -18,14 +19,14 @@
 ```json
 {
   "mcpServers": {
-    "newsnow": {
+    "quickly-news": {
       "command": "npx",
       "args": [
         "-y",
-        "newsnow-mcp-server"
+        "quickly-news-mcp-server"
       ],
       "env": {
-        "BASE_URL": "https://newsnow.busiyi.world"
+        "BASE_URL": "https://news.wxget.com"
       }
     }
   }
@@ -105,10 +106,5 @@ pnpm dev
 ## License
 
 [MIT](./LICENSE) © zhaocore
-
-## 赞赏
-如果本项目对你有所帮助，可以给小猫买点零食。如果需要定制或者其他帮助，请通过下列方式联系备注。
-
-![](./screenshots/reward.gif)
 
 <a href="https://hellogithub.com/repository/c2978695e74a423189e9ca2543ab3b36" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=c2978695e74a423189e9ca2543ab3b36&claim_uid=SMJiFwlsKCkWf89&theme=small" alt="Featured｜HelloGitHub" /></a>
